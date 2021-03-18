@@ -1,3 +1,16 @@
+# gis data
+*.csv
+*.gdb
+*.tbx
+*.aprx
+*.pdf
+data/
+arcgis/
+ImportLog/
+Index/
+.backups/
+
+
 # pycharm
 .idea
 
