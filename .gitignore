@@ -4,6 +4,7 @@
 *.tbx
 *.aprx
 *.pdf
+*.zip
 data/
 arcgis/
 ImportLog/
